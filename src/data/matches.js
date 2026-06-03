@@ -34,7 +34,7 @@ export const ALLE_KAMPE = [
   { id: "G11", gruppe: "B", hjemmehold: "Schweiz",             udehold: "Canada",              dato: "24. jun", tid: "21:00" },
   { id: "G12", gruppe: "B", hjemmehold: "Bosnien-Hercegovina", udehold: "Qatar",               dato: "24. jun", tid: "21:00" },
 
-/*   // GRUPPE C
+  // GRUPPE C
   { id: "G13", gruppe: "C", hjemmehold: "Brasilien", udehold: "Marokko",  dato: "14. jun", tid: "00:00" },
   { id: "G14", gruppe: "C", hjemmehold: "Haiti",     udehold: "Skotland", dato: "14. jun", tid: "03:00" },
   { id: "G15", gruppe: "C", hjemmehold: "Brasilien", udehold: "Haiti",    dato: "20. jun", tid: "03:00" },
@@ -112,7 +112,7 @@ export const ALLE_KAMPE = [
   { id: "G69", gruppe: "L", hjemmehold: "England",  udehold: "Ghana",    dato: "23. jun", tid: "22:00" },
   { id: "G70", gruppe: "L", hjemmehold: "Panama",   udehold: "Kroatien", dato: "24. jun", tid: "01:00" },
   { id: "G71", gruppe: "L", hjemmehold: "Panama",   udehold: "England",  dato: "27. jun", tid: "23:00" },
-  { id: "G72", gruppe: "L", hjemmehold: "Kroatien", udehold: "Ghana",    dato: "27. jun", tid: "23:00" }, */
+  { id: "G72", gruppe: "L", hjemmehold: "Kroatien", udehold: "Ghana",    dato: "27. jun", tid: "23:00" },
 ];
 
 export const GRUPPENAVNE = {
