@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vm2026-betting/static/css/main.fb1a4651.css",
-    "main.js": "/vm2026-betting/static/js/main.00043aa7.js",
+    "main.js": "/vm2026-betting/static/js/main.c730a519.js",
     "index.html": "/vm2026-betting/index.html",
     "main.fb1a4651.css.map": "/vm2026-betting/static/css/main.fb1a4651.css.map",
-    "main.00043aa7.js.map": "/vm2026-betting/static/js/main.00043aa7.js.map"
+    "main.c730a519.js.map": "/vm2026-betting/static/js/main.c730a519.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1a4651.css",
-    "static/js/main.00043aa7.js"
+    "static/js/main.c730a519.js"
   ]
 }
